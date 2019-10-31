@@ -1,3 +1,3 @@
 # Mortgage-alculatorcalculator
 
-[GitHub Pages](https://dasdias.github.io/Mortgage-alculatorcalculator/ "GitHub Pages")
+[GitHub Pages](https://dasdias.github.io/Mortgage-alculatorcalculator/index.html "GitHub Pages")
